@@ -1,7 +1,7 @@
 # quizz
 
 Petite application de quizz très simple pour débutant souhaitant apprendre quelques bases
-N.B: Les questions sont en français
+
 
 ## Getting Started
 
@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # Build
  In terminal excute: flutter pub get then launch your emulator and execute flutter run
+
+# Test 
+Functional application on Android and iOS but tested only on Android
