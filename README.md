@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 "# simple_flutter_quiz" 
 
 # Build
- In terminal excute: flutter pub get then lauchn your emulator and execute flutter run
+ In terminal excute: flutter pub get then launch your emulator and execute flutter run
