@@ -1,6 +1,7 @@
 # quizz
 
-Mon application de Quizz.
+Petite application de quizz très simple pour débutant souhaitant apprendre quelques bases
+N.B: Les questions sont en français
 
 ## Getting Started
 
@@ -15,3 +16,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 "# simple_flutter_quiz" 
+
+# Build
+ In terminal excute: flutter pub get then lauchn your emulator and execute flutter run
